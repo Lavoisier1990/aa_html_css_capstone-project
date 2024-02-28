@@ -45,3 +45,26 @@ div.body-grid > footer {
     grid-area: footer;
     background: #72c2f1;
 }
+
+/*tablet breakpoint*/
+@media (min-width:768px) {
+    div.body-grid {
+        grid-template-columns: 1fr 1fr;
+        grid-template-areas:
+        'header header'
+        'main-content main-content'
+        'left-sidebar-nav right-sidebar'
+        'footer footer';
+    }
+}
+
+/*desktop breakpoint*/
+@media (min-width:1024px) {
+    div.body-grid {
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-areas:
+        'header header header header'
+        'left-sidebar-nav main-content main-content right-sidebar'
+        'footer footer footer footer';
+    }
+}
