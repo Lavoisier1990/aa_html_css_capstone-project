@@ -4,6 +4,7 @@
     scroll-behavior: smooth;
     box-sizing: border-box;
 }
+/*Webpage Layout*/
 
 /*grid-container */
 div.body-grid {
@@ -67,4 +68,9 @@ div.body-grid > footer {
         'left-sidebar-nav main-content main-content right-sidebar'
         'footer footer footer footer';
     }
+}
+
+/*Webpage Content*/
+img.overview {
+    width: 100%;
 }
