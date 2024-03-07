@@ -45,3 +45,4 @@ This was not an academic exercise. The purpose of this page was to display the s
 
 Image acknowledgements:
 Casa Batlo facade - Image by <a href="https://pixabay.com/users/pcsfish-819312/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5049236">pcsfish</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5049236">Pixabay</a>
+Sidney Opera House -Image by <a href="https://pixabay.com/users/mediapr-7187724/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2981044">Steven Hill</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2981044">Pixabay</a>
