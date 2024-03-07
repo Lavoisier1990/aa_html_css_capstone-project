@@ -46,3 +46,9 @@ This was not an academic exercise. The purpose of this page was to display the s
 Image acknowledgements:
 Casa Batlo facade - Image by <a href="https://pixabay.com/users/pcsfish-819312/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5049236">pcsfish</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5049236">Pixabay</a>
 Sidney Opera House -Image by <a href="https://pixabay.com/users/mediapr-7187724/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2981044">Steven Hill</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2981044">Pixabay</a>
+Paimio Sanatorium - Image by Leon Liao from Barcelona, España - Paimio Sanatorium Uploaded by A333, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=15118072
+Bauhaus Buliding, Dessau - Image by Spyrosdrakopoulos - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=38946836
+Villa Savoye, Poissy - Image by Valueyou (talk) - I created this work entirely by myself., CC BY-SA 3.0, https://en.wikipedia.org/w/index.php?curid=19648390
+Fallingwater at Mill Run, Pennsylvania -Image by lachrimae72 - https://pixabay.com/photos/house-in-nature-house-falling-water-2110133/, CC0, https://commons.wikimedia.org/w/index.php?curid=88743190
+Groninger Museum - Image by Gouwenaar - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=44156654
+Denver Art Museum - Image by Jeff Wells, 2007, https://www.sothebys.com/en/museums/denver-art-museum?slide=exterior-view-denver-art-museum
